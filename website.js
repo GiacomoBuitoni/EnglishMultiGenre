@@ -37,7 +37,7 @@ document.getElementById("accessButton").onclick = function(){
         setTimeout(() => {
             document.getElementById("startInfo").style.display = "block";
             evalResult.innerHTML = ''
-            document.getElementById("userInput").innerText = '';
+            document.getElementById("userInput").innerHTML = '';
         }, 5000)
         
     }
