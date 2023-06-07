@@ -1,4 +1,4 @@
-var accessKey = "A745EER"
+var accessKey = "BfBOYS52242"
 var evalResult = document.getElementById("evaluation")
 var progressBar = document.getElementsByClassName("progress-bar")[0]
 document.getElementById("accessButton").onclick = function(){
